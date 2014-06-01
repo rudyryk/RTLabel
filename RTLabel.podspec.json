@@ -1,6 +1,6 @@
 {
   "name": "RTLabel",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "Rich text formatting based on HTML-like markups for iOS.",
   "homepage": "https://github.com/honcheng/RTLabel",
   "license": {
