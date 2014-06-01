@@ -1,0 +1,23 @@
+{
+  "name": "RTLabel",
+  "version": "1.0",
+  "summary": "Rich text formatting based on HTML-like markups for iOS.",
+  "homepage": "https://github.com/honcheng/RTLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Muh Hon Cheng": "honcheng@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/honcheng/RTLabel.git",
+    "commit": "b97d09d069ff5ccbe451c7ce6eac490ef0675624"
+  },
+  "platforms": {
+    "ios": null
+  },
+  "source_files": "RTLabelProject/Classes/RTLabel.{h,m}",
+  "frameworks": "CoreText",
+  "requires_arc": true
+}
